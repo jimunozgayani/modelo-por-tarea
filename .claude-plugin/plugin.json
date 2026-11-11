@@ -1,0 +1,5 @@
+{
+  "name": "modelo-por-tarea",
+  "version": "0.1.0",
+  "description": "Cambia el modelo y el esfuerzo según la tarea (planear, construir, frontend, bug, seguridad…), detectada sola o fijada con /tarea"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "modelo-por-tarea",
+  "owner": { "name": "jimunozgayani" },
+  "plugins": [{ "name": "modelo-por-tarea", "source": "./" }]
+}
